@@ -1,0 +1,57 @@
+	1. Isolating RNA
+		i. Grab the frozen pellet
+		ii. Run the RNAeasy kit
+			i. Very simple to follow
+			ii. Spin for 30 seconds instead of 15 seconds
+		iii. Measure the RNA concentration using nanodrop (blank with RNAeasy water)
+			i. Also get 260/280 ratio (for purity)
+		iv. Store in -80 degrees Celsius
+	2. Conversion of RNA to cDNA
+		i. Use cDNAtemplate_blank and add the concentrations and labels from the nanodrop
+			i. Remeasure RNA concentrations
+		ii. Grab the mini tubes
+		iii. Grab the RNA and qscript cdbna supermix( in fast SYBR box in -20 freezer) on ice
+		iv. Add the appropriate amount of RNA-free water, RNA(pipette up and down, don't vortex) and 4uL of the sample
+		v. Vortex for 1/2 second and then centrifuge
+		vi. Run on quanta in Sabrina's section
+		vii. Transferred to labeled 1.5mL Eppendorf tubes 
+		viii. Dilute with the appropriate number of water
+		ix. Store in -20 degrees celsius 
+	3. Running the qPCR
+		i. Thaw the primers and cDNA on ice
+		ii. Label everything
+			i. 1 1.5ml eppendorf tube per gene for primer mix
+			 
+			ii. Num genes * num samples of 0.75mL eppendorf tubes
+		iii. Get the sheet
+			i. Add how many samples you have (5: so 3 for gene, 1 for beta-actin and another one as extra)
+			ii. Prepare a tube for primer mix: 10uL forward + 10uL reverse + 80uL ultrapure H2O
+				- Freeze extra down
+			iii. Prepare a tube for master mix: add required amounts of fast sybr, primer mix and ultrapure water
+			iv. Repeat for all genes 
+		iv. Vortex the master mix
+		v. Add the cDNA (vortex firstresults_scr) to the tubes and then the master mix (re-vortex)
+		vi. Vortex the mini tubes
+		vii. Grab a qpcr plate
+		viii. Add 20uL per well
+		ix. Put the qpcr adhesive sticker and press firmly
+		x. Centrifuge at 400rcf for 1 minute
+			i. Balance with another qpcr plate
+		xi. Set up
+			i. Open quant studio
+			ii. Create new experiment
+			iii. Go to properties
+				- Experiment: comparative Ct
+				- Chemistry: SYBR green reagents
+				- Run mode: fast
+			iv. Determine stage 2 temp based on the primers
+				- Change it to lowest temp of all the primers you are using
+			v. Add the plate layout
+				- To create a sample, drag, enter sample name and gene
+			vi. Go to file and save 
+			vii. On machine, add plate
+				1) Lead experiment
+				2) Network drive
+				3) Select experiment
+				4) Start run    
+		
