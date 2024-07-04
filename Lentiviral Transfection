@@ -1,0 +1,74 @@
+Thawing HEK293T week before:
+	1. Thaw cells in tube from liquid nitrogen and place in water bath 
+	2. Once almost thawed, transfer cells to 15mL eppendorf tube
+	3. Add media
+	4. Spin cells at 400rcf for 4 minutes
+	5. Remove supernatant
+	6. Transfer cells to 15cm TC plate with 20mL media
+Splitting HEK293T:
+	1. Aspirate media
+	2. Add 5mL trypsin (T/E) to plate
+	3. Place in incubator for 3-4 minutes 
+	4. Also in 10mL media to pipette up and down in plate a few times to make sure all cells are grabbed
+	5. Place in 15mL tube
+	6. Spin at 400rcf for 4 minutes
+	7. Aspirate supernatant
+	8. Split into 3 (Depending on size of pellet) 15cm plate
+Plate cells (day 0):
+	1. Aspirate media
+	2. Add 5mL of trypsin
+	3. Incubate in incubator for 3-4 minutes
+	4. Add ~ 5mL media to each plate to inactivate trypsin
+	5. And pipette up and down a few time 
+	6. Transfer to tube 
+	7. Spin of 400 rcf for 5 minutes 
+	8. Aspirate supernatant and resuspend in 20mLs of media
+	9. Count cells and plate about 12 million cells in each plate 
+Transfection (day 1):
+	- MDG2 <- backbone, PSPAX <- packaging system, plasmid
+	1. Get plasmids on ice
+	2. Quantify using nanodrop 200 software and calculate DNA concentration for each
+		a. Blank: T/E buffer
+		b. Make sure DNA checked
+	3. Go to 15cm dlightab on excel and add the Plasmids for each to get the plasmid volumes
+	4. Spray and bring vortex into hood ( & plug in )
+	5. Grab a 15cm tube for each virus and label
+	6. Add 630μL TE buffer to each tube 
+	7. Add specified amount of plasmid to each tube
+	8. Add 350μl of MQH2O to tuber and mix
+	9. Add 113 of CaCl2 to tube and mix well by pipetting
+	10. Add 1140μL of HeBs dropwise while tube is on vortex
+	- 1000+ 140 ( have both pipettes + tips ready )
+	11. Let sit for 5-15 minutes at room temp .
+	12. Dropwise add 1.5 mL of to each plate and swirl
+Media Change (day 2) 
+	- Make sure wearing lab coat and glasses
+	1. Grab 5% bleach in a glass beaker in hood
+		- Bleach diluted with water
+	2. Grab virus disposable box + 1 disposable pipette per plate into hood
+	3. Use disposable pipette to get media from plate and put in bleach container
+	4. Put pipette in bleach container and suck up media and then leave it there
+	5. Add media into place using a glass pipette
+	6. Once done with all plates, put disposable pipettes into virus box 
+		- Can leave closed box in hood for next day use
+Collecting Virus (day 3 and 4)
+	1. Grab 5% bleach in a glass beaker
+	2. Use disposable pipettes to transfer media from plate to a 50mL tube
+	3. Spin at 2400rcf for 10 minutes
+	4. Transfer the media to a new tube (making sure to not get the cells at the bottom)
+	5. Add 2mLs of PEG-IT to tube
+	6. Invert tubes a couple of times and place in fridge
+		a. At least need 24hr incubation 
+	7. If day 3: add 20mL of fresh media, if day 4: add 5mL of bleach to plate and discard after a bit
+Concentrating Virus:
+	1. Spin tubes at 4 degree at 3000g for 30 minutes
+	2. Place 5% black in beaker in hood
+	3. Tip and put supernatant for each tube into bleach
+	4. Put tubes upside down over paper towel
+		a. Remove tubes from paper towel and put in bleach
+	5. Use cold PBS and add 400UL to each tube
+	6. Pipette up and down and take to next tube which contains the same
+		a. Make sure to bleach tubes
+	7. Aliquot 100uL in cryo tubes at store at -80
+
+
