@@ -1,6 +1,6 @@
 Media Make up:
   DMEM w/ FBS
-  	- For U87 cells
+  	- For U87, HEK293T cells
   	1. DMEM (w/ no F-12)
   	2. 50mL FBS
   	3. 5mL Pen-Strep
