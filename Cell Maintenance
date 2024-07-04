@@ -1,0 +1,52 @@
+Media Make up:
+  DMEM w/ FBS
+  	- For U87 cells
+  	1. DMEM (w/ no F-12)
+  	2. 50mL FBS
+  	3. 5mL Pen-Strep
+  DMEM w/ N2 
+  	- For RN1, WK1, 23GBM, 3691 adherent, HW1 etc.
+  	1. DMEM w/ F12
+  	2. 5mL Pen-Strep
+  	3. N2 supplement (don't place in water bath)
+  	4. 25uL EGF 
+  	5. 50uL  FGF
+  Neurobasal 
+  	- For suspension culture
+  	1. Neurobasal
+  	2. 5mL Pen-Strep
+  	3. 5mL L-Glutamine
+  	4. 5mL Sodium Pyruvate
+  	5. 10mL B27 w/o Vit. A
+  	6. 20uL EGF
+  	7. 50uL FGF
+  Geltrex Media
+    1. Aliquot 50mL of cold media in the tube
+    2. add 100uL of geltrex (straight from ice, don't let warm-up)
+    3. Store in Fridge
+    4. Add in 1:1 ratio with fresh media
+Suspension Cells:
+	1. Grab cells from petri dish
+	2. Put cells in 15mL tube
+	3. Spin down at 400rcf for 5 minutes
+	4. Aspirate Supernatant
+	5. Add 1ml of accutase and pipette up and down 5-10 time
+	6. Let sit at room temp for 7-10 minutes
+	7. Pipette up and down again
+	8. Add 1mL of media
+	9. Spin down at 400rcf for 5 minutes
+	10. Aspirate supernatant
+	11. Pipette 1mL of media and mix
+	12. Add 10mL into dish
+	13. Pipette 200uL into dish for 1:5 split
+Adherent Cells:
+	1. Aspirate media
+	2. Wash with PBS (5-10mL)
+	3. Add 2mL of accutase to plate
+	4. Incubate for 5 minutes
+	5. Add 10mL of PBS + aggressively pipette to make sure all in suspension
+	6. Spin in centrifuge at 400rcf for 5 minutes
+	7. Aspirate supernatant
+	8. Add 1mL of media to tube and completely resuspend cells
+	9. Add 6mL of geltrex media + 6mL of fresh media into the T75
+  10. Add 200uL of cells into T75 for 1:5 split
