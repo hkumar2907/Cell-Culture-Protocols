@@ -1,0 +1,20 @@
+Day 1 (Plating cells):
+	- Plate 350000 cells per well in 2mL in a 6 well plate
+Day 2 (Adding Virus):
+	- Thaw virus on ice, take out polybrene from 4 degrees
+	- Grab 5% bleach in flask in hood (disinfect all tips)
+	- Add 1.2uL polybrene per well
+	- Add different volumes of virus
+  - MOI for 23M: MOI6, MOI for HW1: MOI6
+  - for combo virus, divide MOI by number of viruses. 
+  - I.e. two virus: MOI 3/3, three virus: MOI 2/2/2
+Day 3 (Changing media):
+	- Grab 5% bleach in flask in hood (disinfect all tips)
+	- Gently aspirate the media from the cells
+	- Add 2mL of media into each well
+Day 4 (Adding puromycin):
+	- Add appropriate concentration of puromycin to cell 
+		○ 2ug/ml so 4ul per well
+Day 7 (Collection):
+	- Aspirate media
+	- Either change media, collect the cells or replate them etc.
