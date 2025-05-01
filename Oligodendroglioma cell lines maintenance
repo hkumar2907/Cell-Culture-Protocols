@@ -1,0 +1,97 @@
+Growth factors in -80 Lathia lab freezer
+Frozen cells placed in -80 Lathia lab freezer
+
+Care of Costello Lab Patient-Derived Cell Lines
+
+Making Media
+Glioma Neural Stem Cell Medium (GNS)
+1 bottle Neurocult NS-A (Stem Cell Technologies, 5750)
+5 mL 100X 2mM L-Glutamine
+5 mL of 100X Pen/Strep for 100 U/mL Penicillin and 100 g/mL Streptomycin
+10 mL 50X B27 w/o vitamin A (Invitrogen, 12587-010)  
+5 mL 100X N2 supplement (Invitrogen, 17502-048)
+5 mL 100X Sodium Pyruvate
+
+1.	Mix all reagents in NS-A bottle
+2.	Sterile filter into two 250 mL bottles
+
+
+Coating flasks with laminin
+Diluting stock laminin
+Important: Use Invitrogen Mouse Laminin (23017-015)
+Laminin comes concentrations of 1-2 mg/mL, and therefore variable volumes (you will always get 1 mg total of laminin): Store at -80 °C
+1.	Let laminin thaw slowly at 4 °C
+2.	Dilute to 1 mg/mL by adding ice-cold PBS with Ca and Mg
+3.	Aliquot into ~300 L stock vials. Store stocks at -20 °C for ~ 6 months
+
+Coating flasks
+1.	Dilute laminin (1 mg/mL) in ice cold PBS with Ca and Mg to a final concentration of 1.6 μg/cm2 for culture flask
+  a.	15 μL laminin in 1.5 mL coating volume for 6-well
+  b.	40 μL  laminin in 4 mL coating volume for 25 cm2
+  c.	120 μL laminin in 12 mL coating volume for 75 cm2
+2.	Incubate laminin using one of two methods:
+  a.	Preferred: Incubate at 4°C overnight (wrap flask in parafilm)
+    i.	Good for two weeks
+  b.	Incubate for 3 hours at 37°C
+    i.	Must be used same day
+3.	Before using, wash flask 3X with ice cold PBS with Ca and Mg
+4.	Important: DO NOT let laminin matrix sit exposed to the air.
+
+
+Making 10X growth factor
+Growth factor stocks should be made at 20 ng/μL, which is 1000X.  Final concentration of GFs in the culture should be 20 ng/mL.  Instead of spiking in a small volume of 1000X GF, we make a working solution of 10X GF in GNS media.
+
+1.	Dilute growth factors as per manufacturer recommendations to 20 ng/μL
+  a.	These stocks can be stored at -20 °C for 1 year
+2.	Minimize freeze-thaw cycles of the growth factors: make 1 week’s work of GNS + 10X GF
+  a.	The 10X stock should be stored at 4°C for ONE WEEK ONLY
+3.	Example:
+  a. 	One GNS culture in a T25 needing PEF on Monday, Wednesday, and Friday
+    i.	Spike in .5 mL 3X, so 1.5 mL total
+    b.	Mix 16 μL PDGF-AA, 16 μL bFGF, 16 μL EGF, and 1.6 mL GNS
+
+
+Feeding cells
+1.	Change media on cells at least once a week
+2.	GNS cultures need to be spiked with 10X growth factor every 2-3 days
+3.	Media volumes:
+  a.	24-well: 1 mL
+  b.	12-well: 2 mL
+  c.	6-well: 4 mL
+  d.	T25: 5 mL
+  e.	T75: 15 mL
+  f.	T150: 30 mL
+  g.	10 cm dish: 10 mL
+4.	My preferred schedule: Change media + spike with 10X GF (if needed) on Monday, spike with 10X GF Wednesday, change media + spike with 10X GF Friday
+
+
+Passing cells
+1.	Aspirate media
+2.	Wash cells with PBS without Ca and Mg
+3.	Add accutase
+  a.	1 mL for 6-well
+  b.	1.2 mL for T25
+  c.	3 mL for T75
+  d.	7 mL for T150
+4.	Incubate cells in accutase at 37 °C for 7-12 minutes
+5.	Quench accutase with media. Wash flask with media and transfer cells to a conical.
+6.	Spin 5 min at 1000 RPM.
+7.	Aspirate supernatant.
+8.	Proceed to downstream application with pellet.
+  a.	Note: If pelleting cells for DNA or RNA isolation, make sure to wash pellet in PBS.
+
+
+Freezing cells
+It is recommended that cells be in a T75 or greater before freezing.
+
+GNS freezing media
+90% GNS media
+10% DMSO
+
+1.	Accutase cells as above
+2.	Resuspend pellet in freezing media
+  a.	3 mL for T75
+  b.	6 mL for T150
+3.	Aliquot 1 mL of cells in freezing media to appropriate number of labeled cryovials
+4.	Freeze cryovials in -80 using a Mr. Frosty
+5.	Transfer to LN2 for long-term storage
