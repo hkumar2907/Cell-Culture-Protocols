@@ -1,0 +1,7 @@
+Vector builder
+mir-200c-3p: https://atlasgeneticsoncology.org/gene/51054/mir200c-(microrna-200c) EGFP:Puro
+mir-152-3p: https://mircarta.cs.uni-saarland.de/mirna_view/400/
+mir-365a-3p: https://mpd.bioinf.uni-sb.de/mirna.html?mirna=hsa-miR-365a-3p&organism=hsa
+
+combo of color:Puro
+colors: EGFP or mCherry or TAGBF2
